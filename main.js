@@ -71,8 +71,8 @@ function setRandomTitle() {
     document.title = `R${'_'.repeat(randomWord.length - 2)}QuantoBasta`;
     setTimeout(() => {
         document.title = `${randomWord}QuantoBasta`;
-    }, 5000);
+    }, 1000);
 }
 
 setRandomTitle();
-setInterval(setRandomTitle, 10000);
+setInterval(setRandomTitle, 5000);
