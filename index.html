@@ -16,7 +16,19 @@
 
   gtag('config', 'G-316CGVK7WV');
 </script>
+
+<script>
+  function resizeIframe() {
+    const iframe = document.getElementById('form');
+    iframe.style.height = window.innerHeight + 'px';
+    iframe.style.width = window.innerWidth + 'px';
+  }
+
+  window.addEventListener('resize', resizeIframe);
+  document.addEventListener('DOMContentLoaded', resizeIframe);
+</script>
+
 <body>
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe4N35E8BMlH6Kq-Fh-9g9S81OyokP_W4q7lWDaoQvnJkX17g/viewform?embedded=true" width="640" height="1828" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+    <iframe id="form" src="https://docs.google.com/forms/d/e/1FAIpQLSe4N35E8BMlH6Kq-Fh-9g9S81OyokP_W4q7lWDaoQvnJkX17g/viewform?embedded=true" width="640" height="1828" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
 </body>
 </html>
