@@ -71,4 +71,5 @@ function setRandomTitle() {
     document.title = `${randomWord}QuantoBasta`;
 }
 
+setRandomTitle();
 setInterval(setRandomTitle, 10000);
