@@ -45,6 +45,7 @@ body {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
+  margin: 26px auto;
 }
 
 .graph1,
@@ -104,9 +105,5 @@ body {
 
   #eta {
     max-width: 70%;
-  }
-
-  .etaContainer {
-    margin: 26px auto;
   }
 }
