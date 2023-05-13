@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_2" data-name="Livello 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1128.28 384.55">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-2 {
+        fill: #fbb03b;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-3 {
+        fill: #dfad73;
+      }
+
+      .cls-4 {
+        fill: #d0d2a3;
+      }
+
+      .cls-7 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-8 {
+        font-family: Futura-Medium, Futura;
+        font-size: 34px;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <g id="Livello_4" data-name="Livello 4">
+    <g>
+      <path class="cls-3" d="m442.76,35.54c74.69,0,135.24,60.55,135.24,135.24s-60.55,135.24-135.24,135.24-135.24-60.55-135.24-135.24,60.55-135.24,135.24-135.24h0"/>
+      <path class="cls-2" d="m591.54,9.29c89.19,0,161.49,72.3,161.49,161.49s-72.3,161.49-161.49,161.49-161.49-72.3-161.49-161.49S502.35,9.29,591.54,9.29h0"/>
+      <path class="cls-4" d="m307.66,112.58c32.14,0,58.2,26.06,58.2,58.2s-26.06,58.2-58.2,58.2-58.2-26.06-58.2-58.2,26.06-58.2,58.2-58.2h0"/>
+      <path class="cls-4" d="m694.73,68.31c56.59,0,102.47,45.88,102.47,102.47s-45.88,102.47-102.47,102.47-102.47-45.88-102.47-102.47,45.88-102.47,102.47-102.47h0"/>
+      <path class="cls-3" d="m769.05,112.58c32.14,0,58.2,26.06,58.2,58.2s-26.06,58.2-58.2,58.2-58.2-26.06-58.2-58.2,26.06-58.2,58.2-58.2h0"/>
+      <path class="cls-2" d="m826.66,118.72c28.75,0,52.05,23.3,52.05,52.05s-23.3,52.05-52.05,52.05-52.05-23.3-52.05-52.05,23.3-52.05,52.05-52.05h0"/>
+      <path class="cls-4" d="m878.19,144.75c14.37,0,26.03,11.65,26.03,26.03s-11.65,26.03-26.03,26.03-26.03-11.65-26.03-26.03,11.65-26.03,26.03-26.03h0"/>
+      <line class="cls-5" x1="293.28" y1="134.27" x2="169.28" y2="134.27"/>
+      <line class="cls-5" x1="355.36" y1="33.35" x2="399.2" y2="77.19"/>
+      <line class="cls-5" x1="764.68" y1="41.86" x2="703.87" y2="102.67"/>
+      <line class="cls-5" x1="841.69" y1="67.35" x2="768.86" y2="140.18"/>
+      <line class="cls-5" x1="826.28" y1="197.27" x2="826.28" y2="275.27"/>
+      <line class="cls-5" x1="879.28" y1="162.27" x2="964.28" y2="162.27"/>
+      <text class="cls-8" transform="translate(64.48 147.94)"><tspan class="cls-6" x="0" y="0">1</tspan><tspan x="18" y="0">6-</tspan><tspan class="cls-7" x="46.38" y="0">1</tspan><tspan x="64.81" y="0">8 </tspan><tspan x="19.66" y="40.8">anni</tspan></text>
+      <text class="cls-8" transform="translate(279.69 29.94)"><tspan class="cls-1" x="0" y="0">1</tspan><tspan x="18.23" y="0">9-25 </tspan><tspan x="22.45" y="40.8">anni</tspan></text>
+      <text class="cls-8" transform="translate(770.93 39.94)"><tspan x="0" y="0">36-45 </tspan><tspan x="25.2" y="40.8">anni</tspan></text>
+      <text class="cls-8" transform="translate(872.93 66.94)"><tspan x="0" y="0">46-55 </tspan><tspan x="25.2" y="40.8">anni</tspan></text>
+      <text class="cls-8" transform="translate(978 173.94)"><tspan x="0" y="0">65&gt; anni</tspan></text>
+      <text class="cls-8" transform="translate(827.93 316.94)"><tspan x="0" y="0">56-65 </tspan><tspan x="25.2" y="40.8">anni</tspan></text>
+      <text class="cls-8" transform="translate(276.93 333.94)"><tspan x="0" y="0">26-35 </tspan><tspan x="25.2" y="40.8">anni</tspan></text>
+      <line class="cls-5" x1="569.28" y1="322.27" x2="374.28" y2="322.27"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_2" data-name="Livello 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 542.1 677.59">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.14em;
+      }
+
+      .cls-4 {
+        letter-spacing: .01em;
+      }
+
+      .cls-5 {
+        fill: #fbb03b;
+      }
+
+      .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        fill: #dfad73;
+      }
+
+      .cls-7 {
+        fill: #d0d2a3;
+      }
+
+      .cls-10 {
+        letter-spacing: .01em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        fill: none;
+      }
+
+      .cls-12 {
+        letter-spacing: .02em;
+      }
+
+      .cls-13 {
+        font-size: 28px;
+      }
+
+      .cls-13, .cls-14, .cls-15 {
+        font-family: Futura-Medium, Futura;
+        font-weight: 500;
+      }
+
+      .cls-14 {
+        font-size: 72px;
+      }
+
+      .cls-15 {
+        font-size: 32px;
+      }
+    </style>
+  </defs>
+  <g id="Livello_11" data-name="Livello 11">
+    <g>
+      <text class="cls-14" transform="translate(20.05 63.4)"><tspan x="0" y="0">I punti di </tspan><tspan class="cls-10" x="308.5" y="0">f</tspan><tspan x="330.75" y="0">o</tspan><tspan class="cls-10" x="374.03" y="0">r</tspan><tspan x="401.84" y="0">za </tspan><tspan x="0" y="86.4">di </tspan><tspan class="cls-2" x="83.32" y="86.4">T</tspan><tspan class="cls-12" x="115.59" y="86.4">r</tspan><tspan x="143.61" y="86.4">ica</tspan><tspan class="cls-12" x="239.03" y="86.4">r</tspan><tspan x="267.05" y="86.4">ico</tspan></text>
+      <g>
+        <path class="cls-5" d="m263.23,343.93c0,72.41-58.7,131.12-131.12,131.12S1,416.35,1,343.93s58.7-131.12,131.12-131.12,131.12,58.7,131.12,131.12h0"/>
+        <path class="cls-7" d="m241.15,495.93c0,60.21-48.81,109.03-109.03,109.03s-109.03-48.81-109.03-109.03,48.81-109.03,109.03-109.03,109.03,48.81,109.03,109.03h0"/>
+        <path class="cls-6" d="m190.87,617.83c0,32.45-26.31,58.76-58.76,58.76s-58.76-26.31-58.76-58.76,26.31-58.76,58.76-58.76,58.76,26.31,58.76,58.76h0"/>
+        <text class="cls-15" transform="translate(97.71 352.51)"><tspan x="0" y="0">88%</tspan></text>
+        <text class="cls-15" transform="translate(82.9 504.51)"><tspan x="0" y="0">60.9%</tspan></text>
+        <text class="cls-15" transform="translate(86.64 626.41)"><tspan class="cls-1" x="0" y="0">1</tspan><tspan class="cls-3" x="16.78" y="0">7</tspan><tspan x="32.02" y="0">.7%</tspan></text>
+        <g>
+          <line class="cls-8" x1="149.65" y1="255.96" x2="332.65" y2="255.96"/>
+          <text class="cls-13" transform="translate(297.66 248.33)"><tspan x="0" y="0">Cultu</tspan><tspan class="cls-9" x="64.76" y="0">r</tspan><tspan x="75.04" y="0">a e t</tspan><tspan class="cls-9" x="132.26" y="0">r</tspan><tspan x="142.54" y="0">adizioni</tspan></text>
+        </g>
+        <g>
+          <line class="cls-8" x1="185.65" y1="423.65" x2="339.65" y2="423.65"/>
+          <line class="cls-8" x1="149.65" y1="423.65" x2="332.65" y2="423.65"/>
+          <text class="cls-13" transform="translate(297.66 416.88)"><tspan x="0" y="0">Bellezze natu</tspan><tspan class="cls-9" x="171.1" y="0">r</tspan><tspan x="181.38" y="0">ali</tspan></text>
+        </g>
+        <g>
+          <line class="cls-8" x1="149.65" y1="590.96" x2="332.65" y2="590.96"/>
+          <text class="cls-13" transform="translate(297.66 585.42)"><tspan x="0" y="0">Comuni</tspan><tspan class="cls-11" x="96.18" y="0">t</tspan><tspan class="cls-4" x="104.08" y="0">a</tspan><tspan x="121.27" y="0">’</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_2" data-name="Livello 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340.02 183.19">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: .01em;
+      }
+
+      .cls-2 {
+        letter-spacing: .04em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        font-family: Futura-Medium, Futura;
+        font-size: 50px;
+        font-weight: 500;
+      }
+
+      .cls-5 {
+        letter-spacing: -.05em;
+      }
+    </style>
+  </defs>
+  <g id="Livello_1-2" data-name="Livello 1">
+    <text class="cls-4" transform="translate(0 44.03)"><tspan class="cls-5" x="0" y="0">L</tspan><tspan x="19.58" y="0">’</tspan><tspan class="cls-3" x="35.91" y="0">et</tspan><tspan class="cls-1" x="78.12" y="0">a</tspan><tspan x="108.81" y="0">’ dei </tspan><tspan x="0" y="60">pa</tspan><tspan class="cls-2" x="59.96" y="60">r</tspan><tspan class="cls-3" x="80.47" y="60">t</tspan><tspan x="94.58" y="60">ecip</tspan><tspan class="cls-3" x="188.5" y="60">a</tspan><tspan x="218.92" y="60">vnti </tspan><tspan x="0" y="120">al sondaggio:</tspan></text>
+  </g>
+</svg>

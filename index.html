@@ -1,25 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="it">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta property="og:title"
-      content="Questionario RQB">
+  <meta property="og:title" content="Questionario RQB">
   <meta property="og:description"
-      content="Abbiamo creato questo questionario anonimo per capire la visione di Tricarico da parte di chi la vive, da dentro e fuori Tricarico">
-  <meta property="og:image"
-      content="img/RQB_SQ.png">
+    content="Abbiamo creato questo questionario anonimo per capire la visione di Tricarico da parte di chi la vive, da dentro e fuori Tricarico">
+  <meta property="og:image" content="img/RQB_SQ.png">
   <meta property="og:image:width" content="1291">
   <meta property="og:image:height" content="1292">
   <!-- <meta name="theme-color" content="#ff9900"> -->
   <title>RQuantoBasta</title>
 
+  <link rel="stylesheet" href="https://use.typekit.net/qaq3cae.css">
+  <link rel="stylesheet" href="src/style.css">
   <link rel="icon" type="image/x-icon" href="img/favicon.ico">
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
-  <link rel="stylesheet" href="style.css">
 </head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-316CGVK7WV"></script>
@@ -30,10 +26,56 @@
 
   gtag('config', 'G-316CGVK7WV');
 </script>
-<script src="main.js"></script>
+
 <body>
-  <iframe id="form"
-  src="https://docs.google.com/forms/d/e/1FAIpQLSe4N35E8BMlH6Kq-Fh-9g9S81OyokP_W4q7lWDaoQvnJkX17g/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+  <script type="module" src="/src/main.ts"></script>
+
+  <div class="fg">
+    <div class="title">
+      Risultati sondaggio ai cittadini
+    </div>
+
+    <div class="section demogr">
+      <img class="graph2" id="sesso" src="assets/sesso.svg">
+      <img class="graph2" id="doveVive" src="assets/doveVive.svg">
+    </div>
+    <div class="graph1 etaContainer">
+      <!-- <div class="text">L'eta' dei partecipanti al sondaggio:</div> -->
+      <img id="testoEta" src="assets/testoEta.svg">
+      <img id="eta" src="assets/eta.svg">
+    </div>
+    <div class="line"></div>
+    <div class="section dimmiDoveVivi">
+      <img class="graph3" id="viveATricarico" src="assets/viveATricarico.svg">
+      <img class="graph3" id="tornaAppena" src="assets/tornaAppena.svg">
+      <img class="graph3" id="viaDefinitivam" src="assets/viaDefinitivam.svg">
+    </div>
+    <div class="line"></div>
+    <div class="section disaccordoContainer">
+      <img class="graph1" id="disaccordo" src="assets/disaccordo.svg">
+    </div>
+    <div class="line"></div>
+    <div class="section">
+      <img class="graph2" id="wordCloud" src="assets/wordCloud.svg">
+      <img class="graph2" id="invest" src="assets/invest.svg">
+    </div>
+    <div class="line"></div>
+    <div class="section">
+      <img class="graph2" id="puntiDiForza" src="assets/puntiDiForza.svg">
+      <img class="graph2" id="fra10anni" src="assets/fra10anni.svg">
+    </div>
+    <div class="line"></div>
+    <div class="section">
+      <img class="graph1" id="piuImportante" src="assets/piuImportante.svg">
+    </div>
+    <div class="line"></div>
+    <div class="section">
+      <img class="graph1" id="consigli" src="assets/consigli.svg">
+    </div>
+  </div>
+
+  <div id="bg"></div>
+
 </body>
 
 </html>
