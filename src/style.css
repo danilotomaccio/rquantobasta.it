@@ -73,7 +73,7 @@ body {
   max-width: 70%;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   .fg {
     width: 100%;
   }
