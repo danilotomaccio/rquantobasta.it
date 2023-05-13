@@ -41,7 +41,7 @@ body {
   justify-content: space-around;
 }
 
-.etaContainer {
+.graph1.etaContainer {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;
